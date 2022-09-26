@@ -1,7 +1,7 @@
 from email import header
 from gettext import install
 from lib2to3.pgen2.pgen import DFAState
-from turtle import color, title
+#from turtle import color, title
 from matplotlib import markers
 from pyrsistent import freeze
 import streamlit as st
